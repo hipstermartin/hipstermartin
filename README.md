@@ -20,7 +20,7 @@ Cheers!
   <img src=https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg alt=javascript width="40" height="40"/> &nbsp&nbsp 
   <img src=https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg alt=java width="40" height="40"/> &nbsp&nbsp
   <img src=https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg alt=css3 width="40" height="40"/> &nbsp&nbsp
-  <img src=https://www.python.org/static/community_logos/python-logo-generic.svg alt=python width="100" height="40"/>
+  <img src=https://www.python.org/static/community_logos/python-logo-generic.svg alt=python width="100" height="38"/>
 </p>
 </div>
 
