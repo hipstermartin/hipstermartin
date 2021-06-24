@@ -17,10 +17,10 @@ Cheers!
   <img src=https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg alt=android width="40" height="40"/> &nbsp&nbsp
   <img src=https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg alt=react width="40" height="40"/> &nbsp&nbsp
   <img src=https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg alt=firebase width="40" height="40"/> &nbsp&nbsp
-  <img src=https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg alt=javascript width="40" height="40"/> &nbsp&nbsp 
-  <img src=https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg alt=java width="40" height="40"/> &nbsp&nbsp
-  <img src=https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg alt=css3 width="40" height="40"/> &nbsp&nbsp
-  <img src=https://www.python.org/static/community_logos/python-logo-generic.svg alt=python width="100" height="38"/>
+  <img src=https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg alt=javascript width="40" height="40"/> &nbsp&nbsp 
+  <img src=https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg alt=java width="40" height="40"/> &nbsp&nbsp
+  <img src=https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg alt=css3 width="40" height="40"/> &nbsp&nbsp
+  <img src=https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg alt=python width="40" height="40"/>
 </p>
 </div>
 
