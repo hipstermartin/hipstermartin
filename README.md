@@ -15,7 +15,7 @@ Cheers!
   <b>Technical Skills: </b>
   <p align="center">
   <img src=https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg alt=android width="40" height="40"/> &nbsp&nbsp
-  <img src=https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg alt=react width="40" height="40"/> &nbsp&nbsp
+  <img src=https://images.pexels.com/photos/20787/pexels-photo.jpg?auto=compress&cs=tinysrgb&h=350 alt=react width="40" height="40"/> &nbsp&nbsp
   <img src=https://firebase.google.com/downloads/brand-guidelines/PNG/logo-standard.png alt=firebase width="100" height="38"/> &nbsp&nbsp
   <img src=https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg alt=javascript width="40" height="40"/> &nbsp&nbsp 
   <img src=https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg alt=java width="40" height="40"/> &nbsp&nbsp
