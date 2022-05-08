@@ -8,6 +8,7 @@ Engineering professional with Master's in Software Engineering, looking for a ph
 
 * 🖥️  See my portfolio at [here](http://abhinavyalamaddi.netlify.app/)
 * ✉️  You can contact me at [abhi.yalamaddi@gmail.com](mailto:abhi.yalamaddi@gmail.com)
+* 🤝  I'm open to collaborating on Data Science and DeFi Projects
 
 ### Skills
 
