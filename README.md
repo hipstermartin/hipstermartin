@@ -4,7 +4,7 @@ Hi 👋 My name is Abhinav Yalamaddi
 Software Engineer
 -----------------
 
-I'm an Engineer with Master's Degree in Computer Science, looking for a phenomenal, enthusiastic engineering team to work to ensure that I can learn from and contribute to a challenging and interesting work. I want to do more in the field of public services, where we build a product that solves real-life needs, but that is not a necessity. Open for work in any company for Full-time Developer position.
+I'm a computer science graduate student at University of Texas at Dallas. I'm passionate about coding and developing software, and I'm particularly interested in machine learning and application development. I'm also interested in exploring different programming languages and technologies, and I'm eager to learn more and contribute to the world of technology.
 
 * 🖥️  See my portfolio at [here](https://abhinavyalamaddi.super.site/)
 * ✉️  You can contact me at [abhi.yalamaddi@gmail.com](mailto:abhi.yalamaddi@gmail.com)
