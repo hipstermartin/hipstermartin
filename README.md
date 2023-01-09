@@ -9,7 +9,7 @@ I am a computer science graduate student with a passion for machine learning and
 * 🌍  I'm based in Dallas, TX
 * 🖥️  See my portfolio at [Porfolio](http://abhinavyalamaddi.netlify.app/)
 * ✉️  You can contact me at [abhi.yalamaddi@gmail.com](mailto:abhi.yalamaddi@gmail.com)
-* 🧠  I'm learning BigData Tools like Hadoop, Spark
+* 🧠  Currently learning Big Data Technologies
 * 🤝  I'm open to collaborating on Data Science and Big Data Projects
 
 ### Skills
