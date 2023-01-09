@@ -27,7 +27,8 @@ I am a computer science graduate student with a passion for machine learning and
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/hipstermartin"><img src="https://github-readme-stats.vercel.app/api?username=hipstermartin&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=000000&icon_color=3382ed&bg_color=ffffff&hide_border=true&show_icons=true" alt="hipstermartin's GitHub stats" /></a>
+<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=hipstermartin&show_icons=true alt=hipstermartin /> </p>
+
 
 ### Support Me
 
