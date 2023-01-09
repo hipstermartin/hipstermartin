@@ -27,7 +27,7 @@ I am a computer science graduate student with a passion for machine learning and
 
 <b>My GitHub Stats</b>
 
-<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=hipstermartin&show_icons=true alt=hipstermartin /> </p>
+<p> <img src=https://github-readme-stats.vercel.app/api?username=hipstermartin&show_icons=true alt=hipstermartin /> </p>
 
 
 ### Support Me
