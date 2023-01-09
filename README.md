@@ -7,11 +7,11 @@ Data Science enthusiast
 I am a computer science graduate student with a passion for machine learning and big data. I am excited to share my work and collaborate with others on GitHub. My projects focus on exploring and implementing various machine learning techniques, as well as analyzing and visualizing large datasets. I am always open to feedback and suggestions, so please feel free to reach out and connect with me on GitHub. I look forward to collaborating with the community and learning from others in the field.
 
 * 🌍  I'm based in Dallas, TX
-* 🖥️  See my portfolio [Here](http://abhinavyalamaddi.netlify.app/)
+* 🖥️  See my portfolio [here](http://abhinavyalamaddi.netlify.app/)
 * ✉️  You can contact me at [abhi.yalamaddi@gmail.com](mailto:abhi.yalamaddi@gmail.com)
 * 🧠  Currently learning Big Data Technologies
-* 🤝  I'm open to collaborating on Data Science and Big Data Projects
-* ![image](https://user-images.githubusercontent.com/52558931/211425997-a6788b41-1ad2-4e4b-ba27-49dbfa68794d.png)
+* 🤝  I'm open to collaborating on Data Science and Big Data Projects
+* 💼  You can find my resume [here](https://drive.google.com/file/d/1vJosjbCgecLXcB5Kauat_oRXtHB9WCun/view?usp=share_link)
 
 ### Skills
 
