@@ -7,7 +7,6 @@ I am a computer science graduate student with a passion for machine learning and
 * ✉️  You can contact me at [abhi.yalamaddi@gmail.com](mailto:abhi.yalamaddi@gmail.com)
 * 🧠  Currently learning Big Data Technologies
 * 🤝  I'm open to collaborating on Data Science and Big Data Projects
-* 💼  You can find my resume [here](https://drive.google.com/file/d/1vJosjbCgecLXcB5Kauat_oRXtHB9WCun/view?usp=share_link)
 
 ### Skills
 
