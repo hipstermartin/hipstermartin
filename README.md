@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I am a computer science graduate student with a passion for machine learning and big data. I am excited to share my work and collaborate with others on GitHub. My projects focus on exploring and implementing various machine learning techniques, as well as analyzing and visualizing large datasets. I am always open to feedback and suggestions, so please feel free to reach out and connect with me on GitHub. I look forward to collaborating with the community and learning from others in the field.<br><br>
 
 
